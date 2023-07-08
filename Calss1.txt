@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+hhhhh Hello world
+=======
 hi Hello world
+>>>>>>> origin/master
